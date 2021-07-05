@@ -1,0 +1,47 @@
+.App {
+  text-align: left;
+color: black;
+display: flex;
+flex-wrap: wrap;
+}
+
+
+
+.Heading{
+  background-color: rgb(230, 124, 177);
+  height: 10%;
+  width: 100%;
+  padding: 15px;
+
+}
+
+.SideBar{
+  color: #050505;
+  background-color: rgb(107, 228, 228);
+  height: 80vh;
+  width: 20%;
+  padding: 15px;
+}
+.Body{
+  background-color: white;
+  height: 80vh;
+width: 78%;
+
+
+}
+.Footer{
+  background-color: rgb(230, 124, 177);
+  height: 10%;
+  width: 100%;
+  padding: 15px;
+
+}
+/*
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
